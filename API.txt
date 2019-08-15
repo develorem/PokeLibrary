@@ -1,0 +1,3 @@
+https://api.pokemontcg.io/v1/cards/ex14-28
+https://pokemontcg.io/cards?name=lillie
+https://docs.pokemontcg.io/
